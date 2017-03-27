@@ -15,3 +15,7 @@ https://www.youtube.com/watch?v=bCU_D7EHqLg
 Sarah Goff-Dupont: Git, Continuous Integration and Making It Pretty
 - git workflow and how it relates to Continous Integration  
 https://www.youtube.com/watch?v=TWM1YNzSwB8
+
+
+Interesting reddit discussion on git workflows  
+ https://www.reddit.com/r/devops/comments/6138oo/a_question_about_a_git_workflow_im_being_forced/
