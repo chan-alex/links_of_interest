@@ -1,5 +1,12 @@
+
+The golden rules of Git - Emma Jane Westby  
+- This is by the author of "Git for teams".  
+- very good stuff.  
+https://www.youtube.com/watch?v=-lIia7ZQ1PU
+
+
 Intermediate Git: Workflows for Teams (DrupalCamp LA 2014) - Matt Wrather  
--Good explantion of Git Flow and interesting alternative:  
+- Good explantion of Git Flow and interesting alternative:  
 https://www.youtube.com/watch?v=NHuOC1Sn7I0
 
 
