@@ -20,3 +20,6 @@ http://www.infoworld.com/article/3070454/application-development/beyond-jenkins-
 
 2014 JUC Boston - Jenkins + GitLab + RabbitMQ + Symfony2 + Phing  
 https://www.youtube.com/watch?v=yw7-GP_o4Ng
+
+continous deployment, containers (mesos, marathon)  
+https://www.youtube.com/watch?v=y7fuYPX0CEk
