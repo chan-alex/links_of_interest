@@ -1,3 +1,11 @@
+
+PHP UK Conference 2017 - Chris Sherry - WordPress for the Modern PHP Developer  
+This is THE talk on how to set up wordpress professional for PHP development  
+https://www.youtube.com/watch?v=v57UWTXla3M  
+
+
+
+
 Juan Zapata & Dion Beetson: How NewsCorp Australia scaled WordPress  
 - some real time info on CD/CI for wordpress  
 - related the media industry.  
