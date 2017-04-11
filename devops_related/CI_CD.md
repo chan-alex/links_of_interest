@@ -23,3 +23,21 @@ https://www.youtube.com/watch?v=yw7-GP_o4Ng
 
 continous deployment, containers (mesos, marathon)  
 https://www.youtube.com/watch?v=y7fuYPX0CEk
+
+
+GOTO 2012 • Continuous Delivery: The Dirty Details • Mike Brittain  
+- Good talk on how CI/CD is done  
+- feature flags  
+- how to do data migration  
+- Dev, staging, envoirnment -> something else  
+https://www.youtube.com/watch?v=JR-ccCTmMKY  
+
+
+Stepping into the future: Migrating & Deploying PHP7 - PHPConf.Asia 2016  
+- CI/CD, gh-ost  
+https://www.youtube.com/watch?v=9o4idDBhc_A
+
+
+PHP UK 2017 the road to continous deployment  
+- Interesting talk on how to refactor a monolith legacy site.
+https://www.youtube.com/watch?v=5vcsP_cyk4Q

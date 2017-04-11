@@ -27,3 +27,11 @@ https://www.youtube.com/watch?v=TWM1YNzSwB8
 
 Interesting reddit discussion on git workflows  
  https://www.reddit.com/r/devops/comments/6138oo/a_question_about_a_git_workflow_im_being_forced/
+
+
+Trunk Based Development
+- A source-control branching model, where developers collaborate on code in a single branch called ‘trunk’ *, resist any pressure to create other long-lived development branches
+- Interesting alternative to other workflows.
+- Also related:  http://www.dotnetcatch.com/2017/04/01/no-more-branching-and-we-love-it/
+ https://trunkbaseddevelopment.com/
+
