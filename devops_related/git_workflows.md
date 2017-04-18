@@ -35,3 +35,19 @@ Trunk Based Development
 - Also related:  http://www.dotnetcatch.com/2017/04/01/no-more-branching-and-we-love-it/
  https://trunkbaseddevelopment.com/
 
+
+BitBucket server flow  
+- This is the branch model used by the Bitbucket team.  
+https://www.atlassian.com/blog/inside-atlassian/inside-atlassian-feature-branching-on-the-stash-team  
+
+
+
+Git Workflows a-la-carte  
+- good video talk that gives overview of git workflows  
+- good to memorize to explain things to ppl.  
+- Collaboration model  
+- branch model  
+- common practice  e.g. single repo vs forks  
+- How CI affect git  
+https://summit.atlassian.com/archives/2013/inside-the-development-team/git-workflows-a-la-carte  
+
