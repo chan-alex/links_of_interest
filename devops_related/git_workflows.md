@@ -51,3 +51,7 @@ Git Workflows a-la-carte
 - How CI affect git  
 https://summit.atlassian.com/archives/2013/inside-the-development-team/git-workflows-a-la-carte  
 
+
+A branching and releasing strategy that fits github flow
+--------------------------------------------------------
+https://hackernoon.com/a-branching-and-releasing-strategy-that-fits-github-flow-be1b6c48eca2
